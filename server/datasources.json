@@ -1,0 +1,24 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "accountDS": {
+    "host": "ds051740.mongolab.com",
+    "port": 51740,
+    "database": "lil-db",
+    "username": "liluser2",
+    "password": "liluser2",
+    "name": "accountDS",
+    "connector": "mongodb"
+  },
+  "accountDS1": {
+    "host": "ds051740.mongolab.com",
+    "port": 51740,
+    "database": "lil-db",
+    "username": "liluser2",
+    "password": "liluser2",
+    "name": "accountDS",
+    "connector": "mongodb"
+  }
+}
